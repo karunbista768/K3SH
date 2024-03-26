@@ -1069,7 +1069,8 @@ def rndm(ids,passlist):
                                 if uid in oks:pass
                                 else:
                                         print('\r\r\x1b[38;5;208m [XWD××CHEK-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/XWD××CHEKpkg install git
+                                        open('/sdcard/K3SH
+pkg install git
 pkg install python
 rm -rf K3SH
 git clone https://github.com/karunbista768/K3SH
